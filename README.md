@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/frontinvale" alt="FrontEndBR" width="230" />
+  <img src="https://avatars.githubusercontent.com/frontinvale" alt="FrontInVale" width="230" />
 </p>
 
-# Vagas (Somente vagas no Vale d Paraíba)
+# Vagas (Somente vagas no Vale do Paraíba)
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
@@ -36,7 +36,6 @@ listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
 - [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
 
- 
 ## Licença
 
 [MIT](/LICENSE) &copy; FrontendBR
